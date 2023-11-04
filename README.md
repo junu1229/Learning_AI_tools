@@ -1,8 +1,8 @@
 # Learning AI
 
-## section 1
+# section 1
 
-### Sneak Peak of What's to Come!
+## Sneak Peak of What's to Come!
 
 - 유튜브 내용을 요약해주는 크롬 익스텐션이다
 
@@ -18,22 +18,37 @@
 "I want you to act as an expert in the field of [**Your Industry**] and I will act as a business owner that is seeking business and marketing insights. Please create a list of the top 5 business ideas I can pursue for [**Your Brand or Company**] that sells [**Your Offering**]. Please create one table with columns that rank the difficulty of the following on a scale from 1 to 10: How intensive it will be on company resources, time needed to complete the task, potential upside if the idea is a successful, target market, competitors, potential challenges, potential revenue streams, marketing strategies, initial startup costs, ongoing expenses, social impact, scalability, and other factors I haven't thought of. All of the information you provide should be in tabular format.”
 ```
 
-## section 2
+# section 2
 
-### Intro To chatGPT
+## Intro To chatGPT
 
 - ChatGPT는 많은 양의 텍스트 데이터를 훈련해 만들어진 자연어로 대화할 수 있는 모델이다.
 - 미래에는 컴퓨터, 스마트폰 등에 연결돼 언제나 편하게 사용할 수 있게 될것이다. (개인비서처럼...)
 - 사용할 시 이득은 쓸모 없는 시간을 단축 시켜줌!!!!!!! 그리고 더 전문적인 지식을 가질 수 있도록 만들어주고, 아이디어를 얻을 수 있고, 반복되는 작업들을 효율적으로 처리할 수 있다.
 
-#### 사용 가능한 방법들
+### 사용 가능한 방법들
 
 - 요약 - 많은양의 컨텐츠를 하나로 합쳐준다.
 - 컨텐츠 제작 복사 - 목적에 맞는 새로운 컨텐츠 제작
 - 공부, 조사 - 질문을 통해 빠르게 답을 얻어낼 수 있다.
 - 코딩 - 코드를 만들고 api나 디버깅, 프로그래밍 컨셉을 이해할 수 있음
 
-### 챗gpt와 구글 차이점
+## 챗gpt와 구글 차이점
 
-- 1. 만들어진 목적부터가 다르다
+- 만들어진 목적부터가 다르다
+
   - 구글은 검색엔진이다
+  - 챗gpt는 대화형 엔진임
+
+- 입력하는 방식도 다름
+
+  - 구글은 딱 한 줄 입력가능함
+  - 챗gpt는 여러번의 질분이 가능함
+
+- 결과
+
+  - 구글은 첫 검색에서 페이지를 들어갔을 때 다시 나오는 경우가 40%다
+  - 챗 gpt는 계속 질문도 할 수 있고 답변도 꽤 정확함
+
+- 정보의 양
+  - 현재는 구글이 더 많은 양을 가지고 있지만 계속 학습을 하면 챗gpt가 앞서나갈 수 있음
