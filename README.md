@@ -90,3 +90,17 @@ https://github.com/f/awesome-chatgpt-prompts
 - What would I not think of on this topic?
 - What are some uncommon or less well known answers to this same question
 - Give me something original around this topic that some people believe to be untrue
+
+## 더 나은 답변을 위한 단어들
+
+- Qualifiers: [some, few, many, most, all] 같은 단어를 사용한다.
+- Adjectives: 더 자세하게 묘사할 수 있는 형용사를 사용한다. [red, happy, large, exciting]
+- Adverbs: 부사를 사용한다. [quickly, well, loudly]
+- Intensifiers: 단어를 더 강조하는 단어 사용 [very, extremely, totally]
+- Negatives: 부정어 사용 [not, never, no]
+- Number words: 수를 표현하는 단어 사용 [one, two, foew, many, several]
+- Time words: 시간을 표현하는 단어 사용 [now, yet, soon]
+- Place words: 위치를 표현하는 단어 사용 [here, there, everywhere]
+- Degree words: [totally, completely, slightly]
+
+### 이 단어들은 사용했을 때 답변이 완전히 달라짐으로 유의해서 사용해야됨
